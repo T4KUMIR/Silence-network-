@@ -27,7 +27,7 @@ sudo apt install aircrack-ng hcxdumptool hcxtools hashcat macchanger hostapd
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/T4KUMIR/NEXORA-Stealth.git
+   https://github.com/T4KUMIR/Silence-network-.git
    cd NEXORA-Stealth
    ```
 
