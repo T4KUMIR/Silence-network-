@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-NEXORA Stealth - Herramienta de pentesting WiFi con técnicas de evasión
+Silence-network - Herramienta de pentesting WiFi con técnicas de evasión
 Proyecto académico - Ingeniería en Ciberseguridad
 USO EXCLUSIVO EN ENTORNOS AUTORIZADOS
 
